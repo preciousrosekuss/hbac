@@ -15,3 +15,7 @@ Physicians rely on EEG monitoring to detect seizures and other types of brain ac
 EEG segments used in the competition have been annotated by experts.
 Annotations include idealized patterns with high agreement, proto-patterns with mixed agreement, and edge cases where experts are split between two patterns.
 Detailed explanations of EEG patterns and expert annotations are provided in the dataset.
+
+
+## Citation
+Jin Jing, Zhen Lin, Chaoqi Yang, Ashley Chow, Sohier Dane, Jimeng Sun, M. Brandon Westover. (2024). HMS - Harmful Brain Activity Classification . Kaggle. https://kaggle.com/competitions/hms-harmful-brain-activity-classification
