@@ -10,7 +10,6 @@ Physicians rely on EEG monitoring to detect seizures and other types of brain ac
 
 ![image](https://github.com/preciousrosekuss/hms-hbac/assets/102430666/4f86f9b4-16a9-48e6-a907-c57c048d05c3)
 
-
 ## Data
 EEG segments used in the competition have been annotated by experts.
 Annotations include idealized patterns with high agreement, proto-patterns with mixed agreement, and edge cases where experts are split between two patterns.
